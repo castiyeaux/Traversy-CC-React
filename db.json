@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "text": "Doctor's Appointment",
+            "day": "05 FEB at 1430",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "Meeting at School",
+            "day": "06 FEB at 1330",
+            "reminder": true
+        },
+        {
+            "text": "Finish Traversy's React Crash Course",
+            "day": "27 MAR 0200",
+            "reminder": true,
+            "id": 3
+        }
+    ]
+}
